@@ -1,6 +1,6 @@
 {
   "name": "webutils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a web utility for chrome API",
   "git": "git+git@github.com:ryanrasoarahona3/webutilities.git",
   "main": "index.js",
